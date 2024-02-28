@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whm.vincefabri.com/sitemap.xml
